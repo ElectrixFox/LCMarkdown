@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lcmarkdown.h": "c",
+        "lcfiles.h": "c"
+    }
+}
